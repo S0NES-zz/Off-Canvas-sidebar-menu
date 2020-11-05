@@ -50,7 +50,7 @@ body{
 .label:last-of-type{
     height: 19%;
     width: 19%;
-    margin: 65% 0 0 24.5%;
+    margin: 65% 0 0 24.1%;
 }
 /*Open*/
     #open,
@@ -150,7 +150,7 @@ body{
     align-items: center;
     background-color: #eeecda;
     display: flex;
-    transition: 0.5s;
+    transition: 0.4s;
     height: 250%;
     justify-content: center;
     width: 100%;
