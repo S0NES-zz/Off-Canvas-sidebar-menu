@@ -11,3 +11,5 @@ Tem alguma ideia para melhorar o projeto? Implementação de funcionalidade? abr
 
 ## Link
 [Hamburguer Sidebar Menu]{https://s0nes.github.io/Off-Canvas-sidebar-menu/hamburguer1.html}
+
+[I'm an inline-style link](https://www.google.com)
